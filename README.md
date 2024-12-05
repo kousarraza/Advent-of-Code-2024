@@ -7,6 +7,46 @@ Every year, Advent of Code provides a series of coding puzzles to solve. Below y
 
 ---
 
+
+### Key Features and Emojis Added:
+1. **Emojis for Visual Appeal**:
+   - 🎄 for the general theme of Advent.
+   - 🗓️ for the "Day" column in the table.
+   - 📝 for the "Problem" column.
+   - 💻 for the "Solution" column.
+   - 📂 for the folder structure section.
+   - 🎯 for the problem-solving strategy.
+   - 🧩 for the problem-solving method.
+   - 🏆 for contributing.
+   - 🌟 for repo features.
+   - 🤖 for technologies used.
+   - 📅 for daily updates.
+   - 📌 for important links.
+
+2. **Table of Contents**:
+   - Used the table to provide easy access to each day’s problem description and solution.
+   
+3. **Folder Structure**:
+   - Added a section showing how the files and folders are organized for each day.
+
+4. **Problem Solving Strategy**:
+   - A brief explanation of how each problem is approached.
+
+5. **Contribute Section**:
+   - Encourages others to fork and contribute their solutions.
+
+6. **Technologies Used**:
+   - Lists Python 🐍 and GitHub 🧑‍💻 as the primary technologies.
+
+7. **Daily Updates**:
+   - Let users know that the repository will be updated daily with new solutions.
+
+---
+
+### Example of Folder Structure:
+For **Day 1**, you will have the following structure:
+
+
 ## 📅 Table of Contents
 
 | 🗓️ **Day** | 📝 **Problem**                                       | 💻 **Solution**                                |
