@@ -33,7 +33,7 @@ Advent of Code is an annual event that features a series of 25 programming puzzl
 ----------
 ## Solutions💻
 
-| 🗓️ **Day** | 📝 **Puzzle Title**                                       | 💻 **Solution**                                |Description|
+| 🗓️ **Day** | 📝 **Puzzle Title**                                       | 💻 **Solution**                                
 |------------|------------------------------------------------------|-----------------------------------------------------------------|
 | Day 1      | [Historian Hysteria](Day_1/problem.txt)          | [Puzzle 1] | [Puzzle 2]                         |
 | Day 2      | [Problem 2 description](Day_2/problem.txt)          | [Solution 2](Day_2/solution.py)               |                   |
