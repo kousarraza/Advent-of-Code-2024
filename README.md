@@ -7,7 +7,18 @@ Every year, Advent of Code provides a series of coding puzzles to solve. Below y
 
 ---
 
+# 📅 Table of Contents 📚
 
+## What is 🎄 Advent of Code 🎄?
+## ❓ Why Participate in Advent of Code🤔?
+## Solutions💻
+## Technologies Used 🛠️
+## 🚀 **How to Use This Repository**
+## 📜 License
+## 🏆 Contribute
+
+
+Feel free to fork this repository and submit a pull request if you want to share your solutions!
 ### Key Features and Emojis Added:
 1. **Emojis for Visual Appeal**:
    - 🎄 for the general theme of Advent.
