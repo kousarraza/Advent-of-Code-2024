@@ -46,11 +46,11 @@ Advent of Code is an annual event that features a series of 25 programming puzzl
 
 ---
 
-
+ 
 ## Technologies Used 🛠️
 - Languages: Python 🐍.
 - Version Control: GitHub 🧑‍💻 for collaboration and version tracking.
-
+--------------
 Feel free to fork this repository and submit a pull request if you want to share your solutions!
 ### Key Features and Emojis Added:
 1. **Emojis for Visual Appeal**:
