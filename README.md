@@ -36,8 +36,8 @@ Advent of Code is an annual event that features a series of 25 programming puzzl
 | 🗓️ **Day** | 📝 **Puzzle Title**                                       | 💻 **Puzzle 1** |💻**Puzzle 2**| Description|                               
 |------------|------------------------------------------------------|------------------------|----------------|-------------------------|
 | Day 1      | **Historian Hysteria**              |     ✅                    |   ✅            | **[Show Description](https://adventofcode.com/2024/day/1)**        |
-| Day 2      | **Red-Nosed Reports**          |✅                   |✅  |                |                   |
-| Day 3      | [Problem 3 description](Day_3/problem.txt)          | [Solution 3](Day_3/solution.py)               |                   |
+| Day 2      | **Red-Nosed Reports**          |✅                   |✅  |        **[Show Description](https://adventofcode.com/2024/day/2)**        |                   |
+| Day 3      | **Mull It Over**           | ✅              |  ✅                 |**[Show Description](https://adventofcode.com/2024/day/3)**
 | Day 4      | [Problem 4 description](Day_4/problem.txt)          | [Solution 4](Day_4/solution.py)               |                   |
 | Day 5      | [Problem 5 description](Day_5/problem.txt)          | [Solution 5](Day_5/solution.py)               |                   |
 | Day 6      | [Problem 6 description](Day_6/problem.txt)          | [Solution 6](Day_6/solution.py)               |                   |
