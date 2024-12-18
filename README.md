@@ -84,12 +84,10 @@ Feel free to fork this repository and submit a pull request if you want to share
 
 7. **Daily Updates**:
    - Let users know that the repository will be updated daily with new solutions.
-
 ---
 
 ### Example of Folder Structure:
 For **Day 1**, you will have the following structure:
-
 
 ## 📅 Table of Contents
 
