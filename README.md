@@ -1,6 +1,6 @@
  # 🎄 Advent of Code 2024 🎄
 This Repo is for the Solution  of Advent of Code 2024
-   
+      
 Welcome to my solutions for [Advent of Code 2024](https://adventofcode.com/2024)! 🎉
 
 Every year, Advent of Code provides a series of coding puzzles to solve. Below you'll find my solutions for each day, organized in a table for easy navigation.
